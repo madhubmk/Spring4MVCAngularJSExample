@@ -25,7 +25,7 @@
 							{{ShoppingBag.items.length}} item(s) added
 						</div>
 					</a>
-					<h1 class="text-blue"><a href="#/home">American Apparel</a> <small>Made in the USA - Sweatshop Free</small></h1>
+					<h1 class="text-blue"><a href="#/home">Apparel</a> <small>Made in the USA - Sweatshop Free</small></h1>
 				</div>
 			</div>	
 		</div>

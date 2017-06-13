@@ -5,7 +5,7 @@
 				<h3 class="panel-title">Checkout</h3>
 			</div>
 			<div class="panel-body">
-				<p><b>Please Note:</b> American Apparel reserves the right to cancel any order and refund your order in full at any time.</p>
+				<p><b>Please Note:</b> Apparel reserves the right to cancel any order and refund your order in full at any time.</p>
 				<p ng-show="!ShoppingList.items.length">Your cart is empty.</p>
 				<div class="panel panel-success shopping-list" ng-show="ShoppingList.items.length">
 					<div class="panel-heading">Items: {{ShoppingList.items.length}}</div>
